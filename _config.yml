@@ -10,7 +10,7 @@ title:       Yet another personal blog
 email:       'blog@sumowski.pl'
 description: 'Personal ramblings, tech & politics'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://aleksandersumowski.github.io/' # The base hostname & protocol for your site
+url:         'https://www.sumowski.pl/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/sumek'
 github:      'https://github.com/aleksandersumowski'
 
