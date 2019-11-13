@@ -4,11 +4,11 @@ title: Developer interview question list
 tags: []
 ---
 
-I've shared it with my friends before their job interviews more then once. Sharing it more publicly, maybe someone else will find it useful.
+I've shared it with my friends before their job interviews more than once. Sharing it more publicly, maybe someone else will find it useful.
 
 Caveat: some questions are to be asked explicitly, some answered by reading up, some inferred from reactions, some answered implicitly or by observations during the process, and finally some might not be that relevant for you
 
-Pre-interview:
+#### Pre-interview:
 * read ahead – you don’t want to ask questions about whats on the site
 * think ahead – define what you’re looking in a role
 * ask about the whole process ahead of the time, do you want to work in an environment defined by such process?
@@ -16,13 +16,13 @@ Pre-interview:
 * if possible get answer to questions ahead of the interview via recruiter or contacting directly employees of the company – you can use LinkedIn to connect with employees you’re considering applying to
 * after having all that, do you still want to apply?
 
-Diversity:
+#### Diversity:
 * what is the most junior person that will be interviewing me?
 * are all people in the office white and young?
 * what’s your process for making sure you have diversity?
 * how LGBT and/or non-male friendly is the company?
 
-Learning:
+#### Learning:
 * how does first day in a company look like?
 * how does induction work?
 * when do you expect people be productive?
@@ -32,7 +32,7 @@ Learning:
 * how was interview process decided on? does it work?
 * how do you give feedback to each other? how often?
 
-Org health:
+#### Org health:
 * did you feel comfortable during the interview?
 * do you want to work with people you’ve met during the process?
 * what is your turnover rate like?
@@ -45,7 +45,7 @@ Org health:
 * is the company profitable/stable/looking for a challenge? or diminishing/strugling?
 * are finances ok? operating capital & meeting budgetary targets? profitable?
 
-Role, team & delivery:
+#### Role, team & delivery:
 * how important is position to the company as a whole, how much in the is the core of what business does?
 * why you’re hiring for this position?
 * how the teams are organised? do you have product/feature teams?
@@ -63,7 +63,7 @@ Role, team & delivery:
 * can you explain whats the purpose of the ceremonies you use?
 * what are expectations for my role? ‘what would I need to do within 3 months of being employed to make you happy?’
 
-Tech:
+#### Tech:
 * do you do CI/CD? how do you define that?
 * how quickly/easy it is to deploy?
 * how many apps, how big is the system?
@@ -72,16 +72,20 @@ Tech:
 * infrastructure – what kind, who owns?
 * attitude to quality & risks? testing? monitoring?
 * hypothesis driven development?
-Misc:
+
+#### Misc:
 * is office fit for purpose?
 * free food
 * sport
 * showers
 * bike storage
 
-pro-tip: some questions are good to ask multiple times to different people in the organisation – especially if they have different roles or seniorities – telling them that you want to hear answers from different perspectives
+#### Pro-tip:
 
-    what are the main challenges you’re trying to solve technologically, organisationally?
-    whats the thing you like working here the most?
-    would you recommend working here?
-    do you believe in what company does?
+some questions are good to ask multiple times to different people in the organisation – especially if they have different roles or seniorities – telling them that you want to hear answers from different perspectives
+
+* what are the main challenges you’re trying to solve technologically, organisationally?
+* whats the thing you like working here the most?
+* would you recommend working here?
+* do you believe in what company does?
+
